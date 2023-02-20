@@ -17,6 +17,10 @@ public class prb {
         l.Editorial="Editorial1";
         l.Titulo="Titulo";
         f.inserta(l);
+        f.elimina();
+        f.llena();
+        f.elimina();
+        
         
         
     }
